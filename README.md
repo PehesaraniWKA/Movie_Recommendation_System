@@ -1,4 +1,4 @@
-# Recommendation_Engine
+# Movie_Recommendation_System
 IRWA Assignment 02 - 3rd Year 1st Semester
 
 <h2>Group Members</h2>
